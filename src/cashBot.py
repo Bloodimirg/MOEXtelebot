@@ -1,6 +1,6 @@
 from telegram import KeyboardButton, ReplyKeyboardMarkup
 from telegram import Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackContext, Filters
+from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackContext
 from src.moex_API import MoexAPI
 
 
