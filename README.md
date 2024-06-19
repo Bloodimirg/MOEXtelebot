@@ -9,6 +9,6 @@
 
 1. Создать в телеграмм своего бота https://t.me/BotFather для получения токена
 2. Ввести полученный токен в файле main.py
-3. В pycharm установить зависимости requirements.txt
+3. В pycharm установить зависимости pip install -r requirements.txt
 4. Запустить бота
 
